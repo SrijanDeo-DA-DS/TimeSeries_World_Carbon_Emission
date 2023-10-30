@@ -1,5 +1,7 @@
 # TimeSeries_World_Carbon_Emission
-We will use ARIMA (Time Series) model to predict CO2 emissions of a country for each year since 1900.
+1. We will use ARIMA (Time Series) model to predict CO2 emissions of a country for each year since 1900.
+2. We can also use AUTO_ARIMA library to expedite the process and calculate the ACF, PACF and difference part of the equation
+3. SARIMA model could be used in dataset that have seasonality component to it. For example - AC sales, Ice Cream sales. We would use a seasonality component to the ARIMA model to convert it to SARIMA
 
 ![image](https://github.com/SrijanDeo-DA-DS/TimeSeries_World_Carbon_Emission/assets/88278620/c4ba19a8-33f4-44f6-976d-9abe717a92da)
 
