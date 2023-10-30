@@ -32,6 +32,7 @@ Step 5 : Fit the ARIMA model with the ACF and PACF component and plot the residu
 ![image](https://github.com/SrijanDeo-DA-DS/TimeSeries_World_Carbon_Emission/assets/88278620/10ce6716-68dd-4f63-bcbc-ddc264c09eb6)
 
 Step 6 : Plot the predicted results
+
 ![image](https://github.com/SrijanDeo-DA-DS/TimeSeries_World_Carbon_Emission/assets/88278620/85d6dadd-e8f3-4545-ac33-0d05b491b778)
 
 
